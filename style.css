@@ -1,0 +1,16 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+a.navbar-brand {
+  padding-left: 20px;
+  /* padding-right: 20px; */
+}
+
+/* #ul {
+  margin-right: 20px;
+  align-items: flex-start;
+} */
+
+
