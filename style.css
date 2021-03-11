@@ -2,12 +2,19 @@ body {
   box-sizing: border-box;
   margin: 0;
 }
+.navbar {
+  margin-bottom: 50px;
+}
 
 nav.navbar {
-    padding-right: 20px;
+  padding-right: 20px;
 }
 
 a.navbar-brand {
   padding-left: 20px;
-  
+}
+
+div.jumbotron {
+  margin-top: 4rem;
+  padding: 20px;
 }
